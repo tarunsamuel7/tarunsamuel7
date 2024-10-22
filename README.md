@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/tarunthomassamuel"><img src="https://api.daily.dev/devcards/v2/fly3yc44Uy9V8sWzq015n.png?type=default&r=ia0" width="356" alt="Tarun Thomas Samuel's Dev Card"/></a>
+<a href="https://app.daily.dev/tarunthomassamuel"><img src="./devcard.png" width="356" alt="Tarun Samuel's Dev Card"/></a>
