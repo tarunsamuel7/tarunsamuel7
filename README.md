@@ -1,6 +1,6 @@
-### Hi there, I'm [Tarun Samuel][website] 👋
+## Hi there, I'm [Tarun Samuel][website] 👋
 
-## Languages and Tools 🛠:
+### Languages and Tools 🛠:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="left" height="26px" width="26px" />][html]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" align="left" height="26px" />][css3]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26px" width="26px" align="left" />][js] 
