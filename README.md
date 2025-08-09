@@ -15,17 +15,6 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tarunsamuel7&show_icons=true&theme=dark"/>
-
-[website]: https://tarunsamuel7.github.io/
-[html]: https://html.com/
-[css3]: https://www.w3schools.com/css/
-[nodejs]: https://nodejs.org/en/
-[js]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[git]: https://git-scm.com/
-[tailwind]: https://tailwindcss.com/
-
 <!--
 **tarunsamuel7/tarunsamuel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
